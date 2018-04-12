@@ -1,0 +1,5 @@
+内核总要的单元kobject的学习
+https://blog.csdn.net/wh8_2011/article/details/51711465
+sysfs文件系统的说明
+https://blog.csdn.net/lp10031312/article/details/52588190
+
